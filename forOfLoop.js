@@ -5,7 +5,7 @@ console.log("for...of loop");
 const arr = [1,2,3,4];
 console.log("for of loop");
 for(let element of arr){
-    console.log(element);
+    console.log(element);   //1 2 3 4
 }
 
 
