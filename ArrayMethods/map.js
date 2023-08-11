@@ -2,6 +2,7 @@ console.log("Array map method");
 
 
 //map method is used to transform the array
+//returns new array
 
 
 //map method using normal function
